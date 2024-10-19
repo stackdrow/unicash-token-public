@@ -1,11 +1,11 @@
 {
     "name": "Unicash",
     "symbol": "💵🦄",
-    "uri": "https://example.com/unicash_metadata.json",
+    "uri": "https://raw.githubusercontent.com/stackdrow/unicash-token-public/refs/heads/main/unicash_metadata.json",
     "seller_fee_basis_points": 500,
     "creators": null,
-    "description": "Unicash to innowacyjny token stworzony w sieci Solana, który oferuje użytkownikom wyjątkowe możliwości inwestycyjne i zyski.",
-    "image": "https://example.com/path/to/unicash_image.png",
+    "description": "",
+    "image": "https://raw.githubusercontent.com/stackdrow/unicash-token-public/refs/heads/main/unicash_image.png",
     "attributes": [
         {
             "trait_type": "Rarity",
@@ -20,10 +20,10 @@
         "name": "Unicash Collection",
         "family": "Unicash Family"
     },
-    "external_url": "https://unicash.example.com",
+    "external_url": "https://unicash.solana/",
     "background_color": "000000",
     "socials": {
-        "x_profile": "https://x.com/stackdrow",
-        "telegram_group": "https://t.me/unicash_group"
+        "x_profile": "https://x.com/solana_unicash",
+        "telegram_group": "https://t.me/unicash_community/"
     }
 }
