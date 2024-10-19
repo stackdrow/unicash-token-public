@@ -1,0 +1,29 @@
+{
+    "name": "Unicash",
+    "symbol": "💵🦄",
+    "uri": "https://example.com/unicash_metadata.json",
+    "seller_fee_basis_points": 500,
+    "creators": null,
+    "description": "Unicash to innowacyjny token stworzony w sieci Solana, który oferuje użytkownikom wyjątkowe możliwości inwestycyjne i zyski.",
+    "image": "https://example.com/path/to/unicash_image.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Utility",
+            "value": "Payment"
+        }
+    ],
+    "collection": {
+        "name": "Unicash Collection",
+        "family": "Unicash Family"
+    },
+    "external_url": "https://unicash.example.com",
+    "background_color": "000000",
+    "socials": {
+        "x_profile": "https://x.com/stackdrow",
+        "telegram_group": "https://t.me/unicash_group"
+    }
+}
